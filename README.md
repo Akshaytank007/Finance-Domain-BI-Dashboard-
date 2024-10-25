@@ -9,25 +9,27 @@ Bi dashboard for 4 distinct target audiences: finance, sales,marketing, supply c
 Finance-Domain-BI-Dashboard-
 Steps:
 
-Extracted the data Into MySQL, created a database, and made connections between them, finally Imported data to PowerBi data sets, and ETL processes from the MySQL database - a great opportunity for me to revise the SQL commands.
+1.Extracted the data Into MySQL, created a database, and made connections between them, finally Imported data to PowerBi data sets, and ETL processes from the MySQL database - a great opportunity for me to revise the SQL commands.
 
-Did Data wrangling, Data Cleaning, Data modeling, and finally created amazing Dashboards. Data modeling with snowflake scheme across > 10 tables
+2.Did Data wrangling, Data Cleaning, Data modeling, and finally created amazing Dashboards. Data modeling with snowflake scheme across > 10 tables
 
-Creating more (and really a lot more) calculated measures using DAX formulas
+3.Creating more (and really a lot more) calculated measures using DAX formulas
 
-Dashboarding including views for 4 different target audiences - Finance, Sales, SupplyChain, Executive (For upper management people like CEO etc)
+4.Dashboarding including views for 4 different target audiences - Finance, Sales, SupplyChain, Executive (For upper management people like CEO etc)
 
-Incorporating stakeholder feedback during UAT - it really took some effort to think of how and what to present given the limited real estate on a single view. Thankfully, we could make use of tooltip functionality to create supplemental views!
+5.Incorporating stakeholder feedback during UAT - it really took some effort to think of how and what to present given the limited real estate on a single view. Thankfully, we could make use of tooltip functionality to create supplemental views!
 
-Deploying the solution via PowerBI web service
+6.Deploying the solution via PowerBI web service
 
-The first time Added a Navigation bar for all pages and Gave it a Dynamic Website look ... love this end-to-end project which involves:
+7.The first time Added a Navigation bar for all pages and Gave it a Dynamic Website look ... love this end-to-end project which involves:
 
 One Major takeaway from the project I learned is, that it's not about the tool, it is about solving the problem.
+
 
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀
 
 ➦ SQL ➦ PowerBi Desktop [Power Query (M Language) etc] ➦ Excel ➦ DAX language ➦ DAX studio (for optimizing the report) ➦ Project charter file
+
 
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗣𝗼𝘄𝗲𝗿𝗕𝗜 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀
 
